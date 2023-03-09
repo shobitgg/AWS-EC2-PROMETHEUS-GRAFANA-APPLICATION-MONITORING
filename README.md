@@ -66,7 +66,7 @@ You can download the latest version
 4. This script will do the below steps:
 
 Create a new user and add new directories
-``
+```
 sudo useradd --no-create-home prometheus
 sudo mkdir /etc/prometheus
 sudo mkdir /var/lib/prometheus
