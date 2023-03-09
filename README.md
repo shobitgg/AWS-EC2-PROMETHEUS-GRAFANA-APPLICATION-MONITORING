@@ -156,5 +156,5 @@ http://<EC2_IP>:9090/
 If you are not able to access it then make sure your security group is configured for port 9090 and its open from your IP.
 
 ![](https://cdn-images-1.medium.com/max/800/1*DKa-Fc3_MPOYyebkusuhcg.png)
-https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana | https://www.youtube.com/watch?v=OuQ2bdpejjk | https://prometheus.io/docs/prometheus/latest/installation/ | https://github.com/syedsaadahmed/DevOps-Docker-Prometheus-Grafana-IaaC | https://github.com/colinbut/centralized-monitoring-with-prometheus-grafana | https://github.com/hatamiarash7/DockerSwarm-Monitoring
+https://github.com/Einsteinish/Docker-Compose-Prometheus-and-Grafana | https://www.youtube.com/watch?v=OuQ2bdpejjk | https://prometheus.io/docs/prometheus/latest/installation/ | https://github.com/syedsaadahmed/DevOps-Docker-Prometheus-Grafana-IaaC | https://github.com/colinbut/centralized-monitoring-with-prometheus-grafana | https://github.com/hatamiarash7/DockerSwarm-Monitoring |https://xavier-pestel.medium.com/ansible-how-to-create-roles-and-install-prometheus-grafana-and-node-exporter-28c142904541 | https://blog.devops4me.com/install-grafana-prometheus-node_exporter-using-ansible/
 
