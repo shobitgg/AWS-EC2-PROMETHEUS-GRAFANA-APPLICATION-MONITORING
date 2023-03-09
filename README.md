@@ -1,4 +1,5 @@
 # AWS-EC2-PROMETHEUS-GRAFANA-APPLICATION-MONITORING
+
 ## Tools and AWS services used:
 - AWS EC2
 - AWS security group 
@@ -11,6 +12,13 @@ Node EC2 instances to monitor
 Security Groups Configured properly
 Clone this git repo
 
+## Create EC2 instaces
+
+## Login into AWS EC2 isntance :
+
+```
+ssh -i <key_file_path> username@IP
+```
 Security Groups Configured on EC2 Instances
 Port 9090 — Prometheus Server
 
@@ -29,7 +37,7 @@ Configure the security group on EC2 Instance which you want to monitor and where
 One entry is from your IP and one entry is the IP of the EC2 instance where Prometheus server is installed so that Prometheus server can read the metrics which is exposed on the Node server.
 
 
-Prometheus Architecture
+## Prometheus Architecture
 Prometheus is an open source tool for monitoring and alerting applications
 a multi-dimensional data model with time series data identified by metric name and key/value pairs
 Uses PromQL ( Prometheus Query Language)
