@@ -1,5 +1,15 @@
 # AWS-EC2-PROMETHEUS-GRAFANA-APPLICATION-MONITORING
 
+## Project structure:
+```
+.
+├── compose.yaml
+├── grafana
+│   └── datasource.yml
+├── prometheus
+│   └── prometheus.yml
+└── README.md
+```
 ## Tools and AWS services used:
 - AWS EC2
 - AWS security group 
