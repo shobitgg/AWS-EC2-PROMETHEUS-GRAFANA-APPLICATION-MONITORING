@@ -1,3 +1,4 @@
+#install-node-exporter on secondary target ec2 instance
 sudo useradd --no-create-home node_exporter
 
 wget https://github.com/prometheus/node_exporter/releases/download/v1.0.1/node_exporter-1.0.1.linux-amd64.tar.gz
