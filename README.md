@@ -1,21 +1,16 @@
 # AWS-EC2-PROMETHEUS-GRAFANA-APPLICATION-MONITORING
 https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
-## Project structure:
+## Project needs:
 ```
 .
-├── compose.yaml
+├── AWS-EC2
 ├── grafana
-│   └── datasource.yml
 ├── prometheus
-│   └── prometheus.yml
-└── README.md
-```
-## Tools and AWS services used:
-- AWS EC2
-- AWS security group 
-- Promethesu 
-- Grafana 
+└── Node Exporter
+└── Terraform
+└── Docker
 
+```
 ## Prerequisite:
 Prometheus EC2 instance t2.micro 
 Node EC2 instances to monitor
