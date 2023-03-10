@@ -12,10 +12,10 @@ https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
 
 ```
 ## Prerequisite:
-Prometheus EC2 instance t2.micro 
-Node EC2 instances to monitor
-Security Groups Configured properly
-Clone this git repo
+* Prometheus EC2 instance t2.micro 
+* Node EC2 instances to monitor
+* Security Groups Configured properly
+* Clone this git repo
 
 ## Create EC2 instaces
 
