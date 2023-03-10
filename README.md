@@ -23,9 +23,21 @@ https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
 
 ## Create EC2 Instances
 
+Modify the terraform file based on requirements 
 
+```
+## Usage
+## Initialize the terraform state
 
+terraform init
 
+## Execute the script
+terraform apply -auto-approve
+
+## (optional) Destroy the resources when no longer needed
+terraform destroy -auto-approve
+
+```
 
 
 <b> NOTE:
@@ -345,7 +357,7 @@ Click on + icon -> Import
 
 This is how the dashboard will look like and provide all the metrics for your node
 
-
+![](http://blog.devops4me.com/content/images/2022/05/Grafana-Node_Exporter_Dashboard.jpg)
 
 
 
