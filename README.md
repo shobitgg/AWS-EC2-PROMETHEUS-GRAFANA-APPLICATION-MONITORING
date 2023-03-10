@@ -13,7 +13,7 @@ https://devops4solutions.com/monitoring-using-prometheus-and-grafana-on-aws-ec2/
 ```
 ## Agenda of the Project 
 1. Understand the Prometheus Architecture and functioning
-2. Provision AWS EC2 Instances as a part of Terraform IAAC Automation 
+2. Provision AWS EC2 Instances as a part of Terraform IaaC Automation 
 3. Install Prometheus on a AWS EC2 instance and configure Prometheus to monitor itself
 4. Install Node Exporter on other EC2 Instances in order to scrap metrics 
 5. Configure Prometheus for the EC2 Instance and enable Monitoring
